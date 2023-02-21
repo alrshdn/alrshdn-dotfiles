@@ -1,0 +1,48 @@
+Xft.ppi: 108
+
+! bg: #1f2022 or #1d2021 or #1c2021 or #1c1c1c
+! fg: #ece9da or #fff3ba or #f1e9c1 or #ebdbb2 or #eadbb2 or #ffd7af
+! border/sel: #4b98a8 or #83a598 or #458588
+
+dwm.normfgcolor:            #eadbb2
+dwm.normbgcolor:            #1c1c1c
+dwm.normbordercolor:        gray40
+dwm.normfloatcolor:         #1c1c1c
+
+dwm.selfgcolor:             #1c1c1c
+dwm.selbgcolor:             #458588
+dwm.selbordercolor:         #458588
+dwm.selfloatcolor:          #1c1c1c
+
+dwm.titlenormfgcolor:       #1c1c1c
+dwm.titlenormbgcolor:       #1c1c1c
+dwm.titlenormbordercolor:   #1c1c1c
+dwm.titlenormfloatcolor:    #1c1c1c
+
+dwm.titleselfgcolor:        #1c1c1c
+dwm.titleselbgcolor:        #1c1c1c
+dwm.titleselbordercolor:    #1c1c1c
+dwm.titleselfloatcolor:     #1c1c1c
+
+dwm.tagsnormfgcolor:        #eadbb2
+dwm.tagsnormbgcolor:        #1c1c1c
+dwm.tagsnormbordercolor:    #1c1c1c
+dwm.tagsnormfloatcolor:     #1c1c1c
+
+dwm.tagsselfgcolor:         #1c1c1c
+dwm.tagsselbgcolor:         #458588
+dwm.tagsselbordercolor:     #458588
+dwm.tagsselfloatcolor:      #458588
+
+dwm.hidnormfgcolor:         gray40
+dwm.hidselfgcolor:          gray40
+
+dwm.urgfgcolor:             #eadbb2
+dwm.urgbgcolor:             #1c1c1c
+dwm.urgbordercolor:         gray40
+dwm.urgfloatcolor:          #db8fd9
+
+
+st.foreground:   #ffd7af
+st.background:   #1c1c1c
+st.cursorColor:  #eadbb2
